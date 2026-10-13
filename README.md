@@ -136,3 +136,6 @@ ConferenceGrid, so there is nothing here to install.
 
 Listed in the [official MCP Registry](https://registry.modelcontextprotocol.io)
 as `com.conferencegrid/conferencegrid`.
+
+The docs and `server.json` are MIT-licensed (see `LICENSE`). The ConferenceGrid
+name and mark are not covered by it.
